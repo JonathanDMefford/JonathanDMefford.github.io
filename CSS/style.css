@@ -18,3 +18,12 @@ html, body {
     height: 100%;
     width: 100%;
 }
+
+strong {
+    color: rgb(114, 173, 231);
+    font-size: 20px;
+}
+
+.btn-outline-light:hover {
+    background-color: rgb(37, 179, 171)
+}
